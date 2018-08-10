@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  random
+  rand(1..6)
 end
