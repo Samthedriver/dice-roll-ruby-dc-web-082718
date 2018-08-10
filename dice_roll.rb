@@ -5,6 +5,7 @@
 def roll
   # code goes here
   myArray = ['1', '2', '3', '4', '5', '6']
-  myArray[rand(myarray.length)]
+  rand(myArray.length)
+  #myArray[rand(myArray.length)]
   #rand(1..6)
 end
